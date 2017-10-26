@@ -8,6 +8,6 @@ namespace SortedBag
 {
     public class Integer
     {
-        public int I { get; set; 
+        public int I { get; set; }
     }
 }
