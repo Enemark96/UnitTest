@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedBag", "SortedBag\SortedBag.csproj", "{9DA09183-D941-4A18-AC88-D92400BA5C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedBagTests", "SortedBagTests\SortedBagTests.csproj", "{B19F416D-68A0-4BDC-828B-93B3B1D467A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA09183-D941-4A18-AC88-D92400BA5C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA09183-D941-4A18-AC88-D92400BA5C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA09183-D941-4A18-AC88-D92400BA5C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA09183-D941-4A18-AC88-D92400BA5C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19F416D-68A0-4BDC-828B-93B3B1D467A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19F416D-68A0-4BDC-828B-93B3B1D467A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19F416D-68A0-4BDC-828B-93B3B1D467A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19F416D-68A0-4BDC-828B-93B3B1D467A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DFD275-3D5D-4EA3-A429-459952C94679}
+	EndGlobalSection
+EndGlobal
